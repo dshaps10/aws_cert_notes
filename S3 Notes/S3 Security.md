@@ -7,7 +7,6 @@
 	- Bucket Policies
 	- Access Control Lists (ACL)
 - S3 buckets can be configured to create access logs which log all requests made to the S3 buckeet. This can be done to another bucket.
--
 
 ## Encryption
 
